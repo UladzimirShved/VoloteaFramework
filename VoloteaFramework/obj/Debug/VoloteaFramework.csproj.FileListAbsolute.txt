@@ -1,0 +1,10 @@
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\bin\Debug\VoloteaFramework.dll
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\bin\Debug\VoloteaFramework.pdb
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\bin\Debug\nunit.framework.dll
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\bin\Debug\WebDriver.dll
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\bin\Debug\nunit.framework.xml
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\bin\Debug\WebDriver.xml
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\obj\Debug\VoloteaFramework.csprojResolveAssemblyReference.cache
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\obj\Debug\VoloteaFramework.dll
+C:\Users\Uladzimir_Shved\VoloteaFramework\VoloteaFramework\obj\Debug\VoloteaFramework.pdb
