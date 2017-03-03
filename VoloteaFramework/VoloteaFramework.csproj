@@ -61,11 +61,15 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="SampleTest.cs" />
+    <Compile Include="Tests\SampleTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\WebDriver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Steps\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
