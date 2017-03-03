@@ -9,6 +9,10 @@ namespace VoloteaFramework.Steps
 {
     public class PageFactory
     {
+        public PageFactory(string browser)
+        {
+            Driver = WebDriver.GetBrowser(browser);
+        }
         protected IWebDriver Driver { get; set; }
 
         public void Quit()
