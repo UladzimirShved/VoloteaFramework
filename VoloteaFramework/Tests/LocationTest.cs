@@ -36,6 +36,7 @@ namespace VoloteaFramework.Tests
         public void TearDown()
         {
             pageLocal.Quit();
+            pageBrowserStack.Quit();
         }
     }
 }
