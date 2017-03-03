@@ -11,6 +11,16 @@ namespace VoloteaFramework.Steps
     {
         protected IWebDriver Driver { get; set; }
 
+        public PageFactory(string browser)
+        {
+            Driver = WebDriver.GetBrowser(browser);
+        }
+
+        public void GoTo(string url)
+        {
+            Driver.Navigate().GoToUrl(url);
+        }
+
         public void Quit()
         {
             Driver.Quit();

@@ -67,6 +67,7 @@ namespace VoloteaFramework
                     }
                     break;
             }
+            driver.Manage().Window.Maximize();
             return driver;
         }
     }
